@@ -10,7 +10,7 @@ Programming Language: Java <br />
 User Interface: Java Swing
 
 ### Contributions
-Two of my project partners, Virginia Do and Isbah Ameer, were also involved in the development of this project. While the primary focus of our contributions revolved around the game mechanics, I embarked on a solo endeavor to explore the Swing library, with the aim of leveraging its capabilities to create a comprehensive user interface. Because of time constraints, I was only able to get a basic version of interface developed. 
+Two of my project partners, Virginia Do and Isbah Ameer, were also involved in the development of this project. While the primary focus of our contributions revolved around the game mechanics, I also embarked on a solo endeavor to explore the Swing library, with the aim of leveraging its capabilities to create a comprehensive user interface. Because of time constraints, I was only able to get a basic version of interface developed. 
 
 ### License
 This project is released under the MIT License. Please review the license file for more information.
